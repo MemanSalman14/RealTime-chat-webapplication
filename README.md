@@ -1,8 +1,8 @@
-# 🏥 Smart Health Assistant
+# Real Time Chat Web application
 
 <div align="center">
 
-![Smart Health Assistant](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![Real Time Chat Web application](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![Node](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen.svg)
 ![MongoDB](https://img.shields.io/badge/database-MongoDB-green.svg)
 
