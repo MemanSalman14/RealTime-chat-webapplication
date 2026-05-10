@@ -6,7 +6,7 @@
 ![Node](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen.svg)
 ![MongoDB](https://img.shields.io/badge/database-MongoDB-green.svg)
 
-**A full-stack real-time health chat application built with the MERN stack, featuring AI-powered health assistance, real-time messaging, and secure JWT authentication.**
+**A full-stack, real-time chat platform powered by the MERN stack, with seamless messaging and robust JWT-based authentication.**
 
 [🚀 Live Demo](https://smart-health-assistant-one.vercel.app) 
 
