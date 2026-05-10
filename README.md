@@ -1,4 +1,4 @@
-# Real Time Chat Web application
+# 💬 Real Time Chat Web application
 
 <div align="center">
 
